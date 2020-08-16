@@ -1,1 +1,4 @@
 .ipynb_checkpoints
+*.ini
+.vscode
+*__pycache__
